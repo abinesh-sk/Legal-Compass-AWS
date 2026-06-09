@@ -7,7 +7,7 @@ https://d1k7rhybdcx75.cloudfront.net
 
 
 ## Architecture
-![Legal Compass Architecture](Demo%20Images/architecture.png)
+![Legal Compass Architecture](Demo%20Images/architecture1.png)
 
 ## Tech Stack
 - **Frontend:** React.js, AWS Amplify, CloudFront, S3
