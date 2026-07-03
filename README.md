@@ -3,7 +3,7 @@
 > Legal Guidance Made Simple — Free, Anonymous, Multilingual
 
 ## Live Demo
-https://d1k7rhybdcx75.cloudfront.net
+
 
 
 ## Architecture
